@@ -1,7 +1,7 @@
 ---
-title: "Test Content"
+title: "Model deployment with Tensorflow serving & FastAPI"
 date: 2022-04-30T16:38:36+07:00
-draft: true
+draft: false
 ---
 
 # Model deployment with Tensorflow serving & FastAPI
