@@ -1,13 +1,13 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Model deployment with Tensorflow serving & FastAPI"
+date: 2022-04-30T16:38:36+07:00
 lastmod: {{ .Date }}
 draft: false
 keywords: []
 description: ""
-tags: []
+tags: ['good']
 categories: []
-author: ""
+author: "Quan"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
